@@ -1,0 +1,3 @@
+export {
+    counterReducer
+} from './counterSlice'
